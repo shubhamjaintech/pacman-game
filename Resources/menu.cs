@@ -17,10 +17,9 @@ public class menu : MonoBehaviour {
     public void Lbbutton () {
         SceneManager.LoadScene("leaderboard");
     }
-    //public void Exitbutton()
-    //{
-    //    Application.
-    //}
+    public void Exitbutton()
+    {
+     }
 
     // Update is called once per frame
     void Update () {

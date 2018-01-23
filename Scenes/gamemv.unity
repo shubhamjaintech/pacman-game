@@ -345,7 +345,6 @@ GameObject:
   - component: {fileID: 22020241}
   - component: {fileID: 22020245}
   - component: {fileID: 22020244}
-  - component: {fileID: 22020243}
   - component: {fileID: 22020242}
   m_Layer: 0
   m_Name: pacdot
@@ -376,17 +375,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &22020243
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 22020240}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &22020244
@@ -468,7 +456,6 @@ GameObject:
   - component: {fileID: 22551218}
   - component: {fileID: 22551222}
   - component: {fileID: 22551221}
-  - component: {fileID: 22551220}
   - component: {fileID: 22551219}
   m_Layer: 0
   m_Name: pacdot
@@ -499,17 +486,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &22551220
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 22551217}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &22551221
@@ -591,7 +567,6 @@ GameObject:
   - component: {fileID: 29428001}
   - component: {fileID: 29428004}
   - component: {fileID: 29428003}
-  - component: {fileID: 29428002}
   - component: {fileID: 29428005}
   m_Layer: 0
   m_Name: pacdot
@@ -613,17 +588,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &29428002
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 29428000}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &29428003
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -825,7 +789,6 @@ GameObject:
   - component: {fileID: 38453383}
   - component: {fileID: 38453386}
   - component: {fileID: 38453385}
-  - component: {fileID: 38453384}
   - component: {fileID: 38453387}
   m_Layer: 0
   m_Name: pacdot
@@ -847,17 +810,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &38453384
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 38453382}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &38453385
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -948,7 +900,6 @@ GameObject:
   - component: {fileID: 45844027}
   - component: {fileID: 45844030}
   - component: {fileID: 45844029}
-  - component: {fileID: 45844028}
   - component: {fileID: 45844031}
   m_Layer: 0
   m_Name: pacdot
@@ -970,17 +921,6 @@ Transform:
   m_Father: {fileID: 1595387873}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &45844028
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 45844026}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &45844029
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1404,7 +1344,6 @@ GameObject:
   - component: {fileID: 60731963}
   - component: {fileID: 60731966}
   - component: {fileID: 60731965}
-  - component: {fileID: 60731964}
   - component: {fileID: 60731967}
   m_Layer: 0
   m_Name: pacdot
@@ -1426,17 +1365,6 @@ Transform:
   m_Father: {fileID: 2007120930}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &60731964
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 60731962}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &60731965
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1527,7 +1455,6 @@ GameObject:
   - component: {fileID: 65473959}
   - component: {fileID: 65473962}
   - component: {fileID: 65473961}
-  - component: {fileID: 65473960}
   - component: {fileID: 65473963}
   m_Layer: 0
   m_Name: pacdot
@@ -1549,17 +1476,6 @@ Transform:
   m_Father: {fileID: 80952236}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &65473960
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 65473958}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &65473961
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1761,7 +1677,6 @@ GameObject:
   - component: {fileID: 71552778}
   - component: {fileID: 71552782}
   - component: {fileID: 71552781}
-  - component: {fileID: 71552780}
   - component: {fileID: 71552779}
   m_Layer: 0
   m_Name: pacdot
@@ -1792,17 +1707,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &71552780
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 71552777}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &71552781
@@ -2473,7 +2377,6 @@ GameObject:
   - component: {fileID: 120656493}
   - component: {fileID: 120656497}
   - component: {fileID: 120656496}
-  - component: {fileID: 120656495}
   - component: {fileID: 120656494}
   m_Layer: 0
   m_Name: pacdot
@@ -2504,17 +2407,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &120656495
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 120656492}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &120656496
@@ -2596,7 +2488,6 @@ GameObject:
   - component: {fileID: 125850355}
   - component: {fileID: 125850358}
   - component: {fileID: 125850357}
-  - component: {fileID: 125850356}
   - component: {fileID: 125850359}
   m_Layer: 0
   m_Name: pacdot
@@ -2618,17 +2509,6 @@ Transform:
   m_Father: {fileID: 1542566000}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &125850356
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 125850354}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &125850357
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2719,7 +2599,6 @@ GameObject:
   - component: {fileID: 140620487}
   - component: {fileID: 140620491}
   - component: {fileID: 140620490}
-  - component: {fileID: 140620489}
   - component: {fileID: 140620488}
   m_Layer: 0
   m_Name: pacdot
@@ -2750,17 +2629,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &140620489
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 140620486}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &140620490
@@ -2970,7 +2838,6 @@ GameObject:
   - component: {fileID: 153944541}
   - component: {fileID: 153944544}
   - component: {fileID: 153944543}
-  - component: {fileID: 153944542}
   - component: {fileID: 153944545}
   m_Layer: 0
   m_Name: pacdot
@@ -2992,17 +2859,6 @@ Transform:
   m_Father: {fileID: 2007120930}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &153944542
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 153944540}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &153944543
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3093,7 +2949,6 @@ GameObject:
   - component: {fileID: 171100769}
   - component: {fileID: 171100773}
   - component: {fileID: 171100772}
-  - component: {fileID: 171100771}
   - component: {fileID: 171100770}
   m_Layer: 0
   m_Name: pacdot
@@ -3124,17 +2979,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &171100771
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 171100768}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &171100772
@@ -3216,7 +3060,6 @@ GameObject:
   - component: {fileID: 175212794}
   - component: {fileID: 175212798}
   - component: {fileID: 175212797}
-  - component: {fileID: 175212796}
   - component: {fileID: 175212795}
   m_Layer: 0
   m_Name: pacdot
@@ -3247,17 +3090,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &175212796
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 175212793}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &175212797
@@ -3450,7 +3282,6 @@ GameObject:
   - component: {fileID: 180242298}
   - component: {fileID: 180242301}
   - component: {fileID: 180242300}
-  - component: {fileID: 180242299}
   - component: {fileID: 180242302}
   m_Layer: 0
   m_Name: pacdot
@@ -3472,17 +3303,6 @@ Transform:
   m_Father: {fileID: 564964284}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &180242299
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 180242297}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &180242300
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4017,7 +3837,6 @@ GameObject:
   - component: {fileID: 201506138}
   - component: {fileID: 201506142}
   - component: {fileID: 201506141}
-  - component: {fileID: 201506140}
   - component: {fileID: 201506139}
   m_Layer: 0
   m_Name: pacdot
@@ -4048,17 +3867,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &201506140
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 201506137}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &201506141
@@ -4140,7 +3948,6 @@ GameObject:
   - component: {fileID: 224007996}
   - component: {fileID: 224007999}
   - component: {fileID: 224007998}
-  - component: {fileID: 224007997}
   - component: {fileID: 224008000}
   m_Layer: 0
   m_Name: pacdot
@@ -4162,17 +3969,6 @@ Transform:
   m_Father: {fileID: 2007120930}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &224007997
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 224007995}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &224007998
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4374,7 +4170,6 @@ GameObject:
   - component: {fileID: 230442934}
   - component: {fileID: 230442938}
   - component: {fileID: 230442937}
-  - component: {fileID: 230442936}
   - component: {fileID: 230442935}
   m_Layer: 0
   m_Name: pacdot
@@ -4405,17 +4200,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &230442936
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 230442933}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &230442937
@@ -4497,7 +4281,6 @@ GameObject:
   - component: {fileID: 230457461}
   - component: {fileID: 230457464}
   - component: {fileID: 230457463}
-  - component: {fileID: 230457462}
   - component: {fileID: 230457465}
   m_Layer: 0
   m_Name: pacdot
@@ -4519,17 +4302,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &230457462
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 230457460}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &230457463
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4953,7 +4725,6 @@ GameObject:
   - component: {fileID: 263090858}
   - component: {fileID: 263090862}
   - component: {fileID: 263090861}
-  - component: {fileID: 263090860}
   - component: {fileID: 263090859}
   m_Layer: 0
   m_Name: pacdot
@@ -4984,17 +4755,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &263090860
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 263090857}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &263090861
@@ -5187,7 +4947,6 @@ GameObject:
   - component: {fileID: 274421514}
   - component: {fileID: 274421517}
   - component: {fileID: 274421516}
-  - component: {fileID: 274421515}
   - component: {fileID: 274421518}
   m_Layer: 0
   m_Name: pacdot
@@ -5209,17 +4968,6 @@ Transform:
   m_Father: {fileID: 1595387873}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &274421515
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 274421513}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &274421516
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5423,7 +5171,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 274546111}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 12.44, y: 18.22, z: 0}
+  m_LocalPosition: {x: -1, y: 5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -5458,7 +5206,6 @@ GameObject:
   - component: {fileID: 275756864}
   - component: {fileID: 275756868}
   - component: {fileID: 275756867}
-  - component: {fileID: 275756866}
   - component: {fileID: 275756865}
   m_Layer: 0
   m_Name: pacdot
@@ -5489,17 +5236,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &275756866
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 275756863}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &275756867
@@ -5581,7 +5317,6 @@ GameObject:
   - component: {fileID: 279964684}
   - component: {fileID: 279964687}
   - component: {fileID: 279964686}
-  - component: {fileID: 279964685}
   - component: {fileID: 279964688}
   m_Layer: 0
   m_Name: pacdot
@@ -5603,17 +5338,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &279964685
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 279964683}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &279964686
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5815,7 +5539,6 @@ GameObject:
   - component: {fileID: 280794897}
   - component: {fileID: 280794900}
   - component: {fileID: 280794899}
-  - component: {fileID: 280794898}
   - component: {fileID: 280794901}
   m_Layer: 0
   m_Name: pacdot
@@ -5837,17 +5560,6 @@ Transform:
   m_Father: {fileID: 80952236}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &280794898
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 280794896}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &280794899
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6049,7 +5761,6 @@ GameObject:
   - component: {fileID: 287649662}
   - component: {fileID: 287649665}
   - component: {fileID: 287649664}
-  - component: {fileID: 287649663}
   - component: {fileID: 287649666}
   m_Layer: 0
   m_Name: pacdot
@@ -6071,17 +5782,6 @@ Transform:
   m_Father: {fileID: 1725820922}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &287649663
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 287649661}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &287649664
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6283,7 +5983,6 @@ GameObject:
   - component: {fileID: 298854949}
   - component: {fileID: 298854953}
   - component: {fileID: 298854952}
-  - component: {fileID: 298854951}
   - component: {fileID: 298854950}
   m_Layer: 0
   m_Name: pacdot
@@ -6314,17 +6013,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &298854951
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 298854948}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &298854952
@@ -6517,7 +6205,6 @@ GameObject:
   - component: {fileID: 328010577}
   - component: {fileID: 328010580}
   - component: {fileID: 328010579}
-  - component: {fileID: 328010578}
   - component: {fileID: 328010581}
   m_Layer: 0
   m_Name: pacdot
@@ -6539,17 +6226,6 @@ Transform:
   m_Father: {fileID: 1858550829}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &328010578
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 328010576}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &328010579
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6896,7 +6572,6 @@ GameObject:
   - component: {fileID: 360278761}
   - component: {fileID: 360278764}
   - component: {fileID: 360278763}
-  - component: {fileID: 360278762}
   - component: {fileID: 360278765}
   m_Layer: 0
   m_Name: pacdot
@@ -6918,17 +6593,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &360278762
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 360278760}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &360278763
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7130,7 +6794,6 @@ GameObject:
   - component: {fileID: 366835078}
   - component: {fileID: 366835081}
   - component: {fileID: 366835080}
-  - component: {fileID: 366835079}
   - component: {fileID: 366835082}
   m_Layer: 0
   m_Name: pacdot
@@ -7152,17 +6815,6 @@ Transform:
   m_Father: {fileID: 2007120930}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &366835079
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 366835077}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &366835080
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7364,7 +7016,6 @@ GameObject:
   - component: {fileID: 380137863}
   - component: {fileID: 380137867}
   - component: {fileID: 380137866}
-  - component: {fileID: 380137865}
   - component: {fileID: 380137864}
   m_Layer: 0
   m_Name: pacdot
@@ -7395,17 +7046,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &380137865
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 380137862}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &380137866
@@ -7598,7 +7238,6 @@ GameObject:
   - component: {fileID: 382134438}
   - component: {fileID: 382134442}
   - component: {fileID: 382134441}
-  - component: {fileID: 382134440}
   - component: {fileID: 382134439}
   m_Layer: 0
   m_Name: pacdot
@@ -7629,17 +7268,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &382134440
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 382134437}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &382134441
@@ -8054,7 +7682,6 @@ GameObject:
   - component: {fileID: 393907041}
   - component: {fileID: 393907045}
   - component: {fileID: 393907044}
-  - component: {fileID: 393907043}
   - component: {fileID: 393907042}
   m_Layer: 0
   m_Name: pacdot
@@ -8085,17 +7712,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &393907043
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 393907040}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &393907044
@@ -8177,7 +7793,6 @@ GameObject:
   - component: {fileID: 395835007}
   - component: {fileID: 395835011}
   - component: {fileID: 395835010}
-  - component: {fileID: 395835009}
   - component: {fileID: 395835008}
   m_Layer: 0
   m_Name: pacdot
@@ -8208,17 +7823,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &395835009
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 395835006}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &395835010
@@ -8300,7 +7904,6 @@ GameObject:
   - component: {fileID: 405721466}
   - component: {fileID: 405721470}
   - component: {fileID: 405721469}
-  - component: {fileID: 405721468}
   - component: {fileID: 405721467}
   m_Layer: 0
   m_Name: pacdot
@@ -8331,17 +7934,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &405721468
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 405721465}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &405721469
@@ -8534,7 +8126,6 @@ GameObject:
   - component: {fileID: 411055606}
   - component: {fileID: 411055610}
   - component: {fileID: 411055609}
-  - component: {fileID: 411055608}
   - component: {fileID: 411055607}
   m_Layer: 0
   m_Name: pacdot
@@ -8565,17 +8156,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &411055608
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 411055605}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &411055609
@@ -8879,7 +8459,6 @@ GameObject:
   - component: {fileID: 432258963}
   - component: {fileID: 432258966}
   - component: {fileID: 432258965}
-  - component: {fileID: 432258964}
   - component: {fileID: 432258967}
   m_Layer: 0
   m_Name: pacdot
@@ -8901,17 +8480,6 @@ Transform:
   m_Father: {fileID: 873249056}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &432258964
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 432258962}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &432258965
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9113,7 +8681,6 @@ GameObject:
   - component: {fileID: 476721006}
   - component: {fileID: 476721010}
   - component: {fileID: 476721009}
-  - component: {fileID: 476721008}
   - component: {fileID: 476721007}
   m_Layer: 0
   m_Name: pacdot
@@ -9144,17 +8711,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &476721008
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 476721005}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &476721009
@@ -9347,7 +8903,6 @@ GameObject:
   - component: {fileID: 500605201}
   - component: {fileID: 500605204}
   - component: {fileID: 500605203}
-  - component: {fileID: 500605202}
   - component: {fileID: 500605205}
   m_Layer: 0
   m_Name: pacdot
@@ -9369,17 +8924,6 @@ Transform:
   m_Father: {fileID: 1542566000}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &500605202
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 500605200}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &500605203
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9470,7 +9014,6 @@ GameObject:
   - component: {fileID: 511571969}
   - component: {fileID: 511571973}
   - component: {fileID: 511571972}
-  - component: {fileID: 511571971}
   - component: {fileID: 511571970}
   m_Layer: 0
   m_Name: pacdot
@@ -9501,17 +9044,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &511571971
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 511571968}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &511571972
@@ -9815,7 +9347,6 @@ GameObject:
   - component: {fileID: 517022264}
   - component: {fileID: 517022267}
   - component: {fileID: 517022266}
-  - component: {fileID: 517022265}
   - component: {fileID: 517022268}
   m_Layer: 0
   m_Name: pacdot
@@ -9837,17 +9368,6 @@ Transform:
   m_Father: {fileID: 757753949}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &517022265
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 517022263}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &517022266
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9992,7 +9512,6 @@ GameObject:
   - component: {fileID: 521189840}
   - component: {fileID: 521189844}
   - component: {fileID: 521189843}
-  - component: {fileID: 521189842}
   - component: {fileID: 521189841}
   m_Layer: 0
   m_Name: pacdot
@@ -10023,17 +9542,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &521189842
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 521189839}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &521189843
@@ -10337,7 +9845,6 @@ GameObject:
   - component: {fileID: 533499469}
   - component: {fileID: 533499473}
   - component: {fileID: 533499472}
-  - component: {fileID: 533499471}
   - component: {fileID: 533499470}
   m_Layer: 0
   m_Name: pacdot
@@ -10368,17 +9875,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &533499471
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 533499468}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &533499472
@@ -10460,7 +9956,6 @@ GameObject:
   - component: {fileID: 536201901}
   - component: {fileID: 536201905}
   - component: {fileID: 536201904}
-  - component: {fileID: 536201903}
   - component: {fileID: 536201902}
   m_Layer: 0
   m_Name: pacdot
@@ -10491,17 +9986,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &536201903
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 536201900}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &536201904
@@ -10694,7 +10178,6 @@ GameObject:
   - component: {fileID: 545896363}
   - component: {fileID: 545896366}
   - component: {fileID: 545896365}
-  - component: {fileID: 545896364}
   - component: {fileID: 545896367}
   m_Layer: 0
   m_Name: pacdot
@@ -10716,17 +10199,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &545896364
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 545896362}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &545896365
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11039,7 +10511,6 @@ GameObject:
   - component: {fileID: 562249797}
   - component: {fileID: 562249801}
   - component: {fileID: 562249800}
-  - component: {fileID: 562249799}
   - component: {fileID: 562249798}
   m_Layer: 0
   m_Name: pacdot
@@ -11070,17 +10541,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &562249799
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 562249796}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &562249800
@@ -11307,7 +10767,6 @@ GameObject:
   - component: {fileID: 575407735}
   - component: {fileID: 575407739}
   - component: {fileID: 575407738}
-  - component: {fileID: 575407737}
   - component: {fileID: 575407736}
   m_Layer: 0
   m_Name: pacdot
@@ -11338,17 +10797,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &575407737
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 575407734}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &575407738
@@ -11430,7 +10878,6 @@ GameObject:
   - component: {fileID: 575426300}
   - component: {fileID: 575426304}
   - component: {fileID: 575426303}
-  - component: {fileID: 575426302}
   - component: {fileID: 575426301}
   m_Layer: 0
   m_Name: pacdot
@@ -11461,17 +10908,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &575426302
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 575426299}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &575426303
@@ -11775,7 +11211,6 @@ GameObject:
   - component: {fileID: 612161355}
   - component: {fileID: 612161358}
   - component: {fileID: 612161357}
-  - component: {fileID: 612161356}
   - component: {fileID: 612161359}
   m_Layer: 0
   m_Name: pacdot
@@ -11797,17 +11232,6 @@ Transform:
   m_Father: {fileID: 564964284}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &612161356
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 612161354}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &612161357
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11898,7 +11322,6 @@ GameObject:
   - component: {fileID: 612791390}
   - component: {fileID: 612791393}
   - component: {fileID: 612791392}
-  - component: {fileID: 612791391}
   - component: {fileID: 612791394}
   m_Layer: 0
   m_Name: pacdot
@@ -11920,17 +11343,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &612791391
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 612791389}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &612791392
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12021,7 +11433,6 @@ GameObject:
   - component: {fileID: 629257033}
   - component: {fileID: 629257036}
   - component: {fileID: 629257035}
-  - component: {fileID: 629257034}
   - component: {fileID: 629257037}
   m_Layer: 0
   m_Name: pacdot
@@ -12043,17 +11454,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &629257034
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 629257032}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &629257035
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12325,7 +11725,6 @@ GameObject:
   - component: {fileID: 637613927}
   - component: {fileID: 637613931}
   - component: {fileID: 637613930}
-  - component: {fileID: 637613929}
   - component: {fileID: 637613928}
   m_Layer: 0
   m_Name: pacdot
@@ -12356,17 +11755,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &637613929
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 637613926}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &637613930
@@ -12559,7 +11947,6 @@ GameObject:
   - component: {fileID: 645877356}
   - component: {fileID: 645877359}
   - component: {fileID: 645877358}
-  - component: {fileID: 645877357}
   - component: {fileID: 645877360}
   m_Layer: 0
   m_Name: pacdot
@@ -12581,17 +11968,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &645877357
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 645877355}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &645877358
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12682,7 +12058,6 @@ GameObject:
   - component: {fileID: 667391081}
   - component: {fileID: 667391084}
   - component: {fileID: 667391083}
-  - component: {fileID: 667391082}
   - component: {fileID: 667391085}
   m_Layer: 0
   m_Name: pacdot
@@ -12704,17 +12079,6 @@ Transform:
   m_Father: {fileID: 873249056}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &667391082
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 667391080}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &667391083
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14214,7 +13578,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 673798439}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.492, y: 1.233, z: 0}
+  m_LocalPosition: {x: -16.932, y: -11.9869995, z: 0}
   m_LocalScale: {x: 1.1010017, y: 1, z: 1}
   m_Children:
   - {fileID: 633918075}
@@ -14675,7 +14039,6 @@ GameObject:
   - component: {fileID: 687017749}
   - component: {fileID: 687017753}
   - component: {fileID: 687017752}
-  - component: {fileID: 687017751}
   - component: {fileID: 687017750}
   m_Layer: 0
   m_Name: pacdot
@@ -14706,17 +14069,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &687017751
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 687017748}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &687017752
@@ -14909,7 +14261,6 @@ GameObject:
   - component: {fileID: 693067761}
   - component: {fileID: 693067765}
   - component: {fileID: 693067764}
-  - component: {fileID: 693067763}
   - component: {fileID: 693067762}
   m_Layer: 0
   m_Name: pacdot
@@ -14940,17 +14291,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &693067763
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 693067760}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &693067764
@@ -15063,7 +14403,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.000054065848, g: 0, b: 0, a: 0.988}
+  m_BackGroundColor: {r: 0.29411763, g: 0.23572662, b: 0.23572662, a: 0.988}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -15113,7 +14453,6 @@ GameObject:
   - component: {fileID: 699081446}
   - component: {fileID: 699081450}
   - component: {fileID: 699081449}
-  - component: {fileID: 699081448}
   - component: {fileID: 699081447}
   m_Layer: 0
   m_Name: pacdot
@@ -15144,17 +14483,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &699081448
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 699081445}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &699081449
@@ -15236,7 +14564,6 @@ GameObject:
   - component: {fileID: 706485794}
   - component: {fileID: 706485797}
   - component: {fileID: 706485796}
-  - component: {fileID: 706485795}
   - component: {fileID: 706485798}
   m_Layer: 0
   m_Name: pacdot
@@ -15258,17 +14585,6 @@ Transform:
   m_Father: {fileID: 1725820922}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &706485795
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 706485793}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &706485796
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15470,7 +14786,6 @@ GameObject:
   - component: {fileID: 719837907}
   - component: {fileID: 719837911}
   - component: {fileID: 719837910}
-  - component: {fileID: 719837909}
   - component: {fileID: 719837908}
   m_Layer: 0
   m_Name: pacdot
@@ -15501,17 +14816,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &719837909
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 719837906}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &719837910
@@ -15593,7 +14897,6 @@ GameObject:
   - component: {fileID: 725303412}
   - component: {fileID: 725303416}
   - component: {fileID: 725303415}
-  - component: {fileID: 725303414}
   - component: {fileID: 725303413}
   m_Layer: 0
   m_Name: pacdot
@@ -15624,17 +14927,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &725303414
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 725303411}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &725303415
@@ -15716,7 +15008,6 @@ GameObject:
   - component: {fileID: 728471432}
   - component: {fileID: 728471435}
   - component: {fileID: 728471434}
-  - component: {fileID: 728471433}
   - component: {fileID: 728471436}
   m_Layer: 0
   m_Name: pacdot
@@ -15738,17 +15029,6 @@ Transform:
   m_Father: {fileID: 1858550829}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &728471433
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 728471431}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &728471434
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16240,7 +15520,6 @@ GameObject:
   - component: {fileID: 760022218}
   - component: {fileID: 760022222}
   - component: {fileID: 760022221}
-  - component: {fileID: 760022220}
   - component: {fileID: 760022219}
   m_Layer: 0
   m_Name: pacdot
@@ -16271,17 +15550,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &760022220
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 760022217}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &760022221
@@ -16363,7 +15631,6 @@ GameObject:
   - component: {fileID: 761265582}
   - component: {fileID: 761265586}
   - component: {fileID: 761265585}
-  - component: {fileID: 761265584}
   - component: {fileID: 761265583}
   m_Layer: 0
   m_Name: pacdot
@@ -16394,17 +15661,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &761265584
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 761265581}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &761265585
@@ -16486,7 +15742,6 @@ GameObject:
   - component: {fileID: 762996259}
   - component: {fileID: 762996263}
   - component: {fileID: 762996262}
-  - component: {fileID: 762996261}
   - component: {fileID: 762996260}
   m_Layer: 0
   m_Name: pacdot
@@ -16517,17 +15772,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &762996261
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 762996258}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &762996262
@@ -16609,7 +15853,6 @@ GameObject:
   - component: {fileID: 763142772}
   - component: {fileID: 763142775}
   - component: {fileID: 763142774}
-  - component: {fileID: 763142773}
   - component: {fileID: 763142776}
   m_Layer: 0
   m_Name: pacdot
@@ -16631,17 +15874,6 @@ Transform:
   m_Father: {fileID: 1858550829}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &763142773
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 763142771}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &763142774
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16889,7 +16121,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 780620106}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.51, y: 15.22, z: 0}
+  m_LocalPosition: {x: -5.9299984, y: 2.000001, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -16905,7 +16137,6 @@ GameObject:
   - component: {fileID: 792699733}
   - component: {fileID: 792699737}
   - component: {fileID: 792699736}
-  - component: {fileID: 792699735}
   - component: {fileID: 792699734}
   m_Layer: 0
   m_Name: pacdot
@@ -16936,17 +16167,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &792699735
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 792699732}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &792699736
@@ -17028,7 +16248,6 @@ GameObject:
   - component: {fileID: 792730158}
   - component: {fileID: 792730162}
   - component: {fileID: 792730161}
-  - component: {fileID: 792730160}
   - component: {fileID: 792730159}
   m_Layer: 0
   m_Name: pacdot
@@ -17059,17 +16278,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &792730160
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 792730157}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &792730161
@@ -17151,7 +16359,6 @@ GameObject:
   - component: {fileID: 796068942}
   - component: {fileID: 796068945}
   - component: {fileID: 796068944}
-  - component: {fileID: 796068943}
   - component: {fileID: 796068946}
   m_Layer: 0
   m_Name: pacdot
@@ -17173,17 +16380,6 @@ Transform:
   m_Father: {fileID: 873249056}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &796068943
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 796068941}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &796068944
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17274,7 +16470,6 @@ GameObject:
   - component: {fileID: 799992166}
   - component: {fileID: 799992169}
   - component: {fileID: 799992168}
-  - component: {fileID: 799992167}
   - component: {fileID: 799992170}
   m_Layer: 0
   m_Name: pacdot
@@ -17296,17 +16491,6 @@ Transform:
   m_Father: {fileID: 1595387873}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &799992167
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 799992165}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &799992168
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17397,7 +16581,6 @@ GameObject:
   - component: {fileID: 800317920}
   - component: {fileID: 800317923}
   - component: {fileID: 800317922}
-  - component: {fileID: 800317921}
   - component: {fileID: 800317924}
   m_Layer: 0
   m_Name: pacdot
@@ -17419,17 +16602,6 @@ Transform:
   m_Father: {fileID: 1542566000}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &800317921
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 800317919}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &800317922
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17853,7 +17025,6 @@ GameObject:
   - component: {fileID: 822115297}
   - component: {fileID: 822115301}
   - component: {fileID: 822115300}
-  - component: {fileID: 822115299}
   - component: {fileID: 822115298}
   m_Layer: 0
   m_Name: pacdot
@@ -17884,17 +17055,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &822115299
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 822115296}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &822115300
@@ -18167,7 +17327,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 829230564}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -13.439999, y: -13.219999, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -18183,7 +17343,6 @@ GameObject:
   - component: {fileID: 835348001}
   - component: {fileID: 835348004}
   - component: {fileID: 835348003}
-  - component: {fileID: 835348002}
   - component: {fileID: 835348005}
   m_Layer: 0
   m_Name: pacdot
@@ -18205,17 +17364,6 @@ Transform:
   m_Father: {fileID: 757753949}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &835348002
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 835348000}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &835348003
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18528,7 +17676,6 @@ GameObject:
   - component: {fileID: 853028062}
   - component: {fileID: 853028066}
   - component: {fileID: 853028065}
-  - component: {fileID: 853028064}
   - component: {fileID: 853028063}
   m_Layer: 0
   m_Name: pacdot
@@ -18559,17 +17706,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &853028064
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 853028061}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &853028065
@@ -19340,7 +18476,6 @@ GameObject:
   - component: {fileID: 909016408}
   - component: {fileID: 909016412}
   - component: {fileID: 909016411}
-  - component: {fileID: 909016410}
   - component: {fileID: 909016409}
   m_Layer: 0
   m_Name: pacdot
@@ -19371,17 +18506,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &909016410
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 909016407}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &909016411
@@ -19463,7 +18587,6 @@ GameObject:
   - component: {fileID: 909979885}
   - component: {fileID: 909979888}
   - component: {fileID: 909979887}
-  - component: {fileID: 909979886}
   - component: {fileID: 909979889}
   m_Layer: 0
   m_Name: pacdot
@@ -19485,17 +18608,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &909979886
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 909979884}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &909979887
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19697,7 +18809,6 @@ GameObject:
   - component: {fileID: 915218751}
   - component: {fileID: 915218754}
   - component: {fileID: 915218753}
-  - component: {fileID: 915218752}
   - component: {fileID: 915218755}
   m_Layer: 0
   m_Name: pacdot
@@ -19719,17 +18830,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &915218752
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 915218750}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &915218753
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19931,7 +19031,6 @@ GameObject:
   - component: {fileID: 920363127}
   - component: {fileID: 920363131}
   - component: {fileID: 920363130}
-  - component: {fileID: 920363129}
   - component: {fileID: 920363128}
   m_Layer: 0
   m_Name: pacdot
@@ -19962,17 +19061,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &920363129
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 920363126}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &920363130
@@ -20054,7 +19142,6 @@ GameObject:
   - component: {fileID: 923414583}
   - component: {fileID: 923414587}
   - component: {fileID: 923414586}
-  - component: {fileID: 923414585}
   - component: {fileID: 923414584}
   m_Layer: 0
   m_Name: pacdot
@@ -20085,17 +19172,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &923414585
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 923414582}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &923414586
@@ -20288,7 +19364,6 @@ GameObject:
   - component: {fileID: 930856873}
   - component: {fileID: 930856877}
   - component: {fileID: 930856876}
-  - component: {fileID: 930856875}
   - component: {fileID: 930856874}
   m_Layer: 0
   m_Name: pacdot
@@ -20319,17 +19394,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &930856875
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 930856872}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &930856876
@@ -20411,7 +19475,6 @@ GameObject:
   - component: {fileID: 939549319}
   - component: {fileID: 939549323}
   - component: {fileID: 939549322}
-  - component: {fileID: 939549321}
   - component: {fileID: 939549320}
   m_Layer: 0
   m_Name: pacdot
@@ -20442,17 +19505,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &939549321
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 939549318}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &939549322
@@ -20534,7 +19586,6 @@ GameObject:
   - component: {fileID: 939674656}
   - component: {fileID: 939674660}
   - component: {fileID: 939674659}
-  - component: {fileID: 939674658}
   - component: {fileID: 939674657}
   m_Layer: 0
   m_Name: pacdot
@@ -20565,17 +19616,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &939674658
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 939674655}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &939674659
@@ -21101,7 +20141,6 @@ GameObject:
   - component: {fileID: 989668783}
   - component: {fileID: 989668786}
   - component: {fileID: 989668785}
-  - component: {fileID: 989668784}
   - component: {fileID: 989668787}
   m_Layer: 0
   m_Name: pacdot
@@ -21123,17 +20162,6 @@ Transform:
   m_Father: {fileID: 757753949}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &989668784
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 989668782}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &989668785
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21224,7 +20252,6 @@ GameObject:
   - component: {fileID: 993751731}
   - component: {fileID: 993751735}
   - component: {fileID: 993751734}
-  - component: {fileID: 993751733}
   - component: {fileID: 993751732}
   m_Layer: 0
   m_Name: pacdot
@@ -21255,17 +20282,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &993751733
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 993751730}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &993751734
@@ -21680,7 +20696,6 @@ GameObject:
   - component: {fileID: 1012116688}
   - component: {fileID: 1012116692}
   - component: {fileID: 1012116691}
-  - component: {fileID: 1012116690}
   - component: {fileID: 1012116689}
   m_Layer: 0
   m_Name: pacdot
@@ -21711,17 +20726,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1012116690
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1012116687}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1012116691
@@ -21803,7 +20807,6 @@ GameObject:
   - component: {fileID: 1017990149}
   - component: {fileID: 1017990153}
   - component: {fileID: 1017990152}
-  - component: {fileID: 1017990151}
   - component: {fileID: 1017990150}
   m_Layer: 0
   m_Name: pacdot
@@ -21834,17 +20837,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1017990151
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1017990148}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1017990152
@@ -22037,7 +21029,6 @@ GameObject:
   - component: {fileID: 1025415299}
   - component: {fileID: 1025415303}
   - component: {fileID: 1025415302}
-  - component: {fileID: 1025415301}
   - component: {fileID: 1025415300}
   m_Layer: 0
   m_Name: pacdot
@@ -22068,17 +21059,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1025415301
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1025415298}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1025415302
@@ -22160,7 +21140,6 @@ GameObject:
   - component: {fileID: 1026011036}
   - component: {fileID: 1026011039}
   - component: {fileID: 1026011038}
-  - component: {fileID: 1026011037}
   - component: {fileID: 1026011040}
   m_Layer: 0
   m_Name: pacdot
@@ -22182,17 +21161,6 @@ Transform:
   m_Father: {fileID: 1725820922}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1026011037
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1026011035}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1026011038
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22333,7 +21301,6 @@ GameObject:
   - component: {fileID: 1034873553}
   - component: {fileID: 1034873556}
   - component: {fileID: 1034873555}
-  - component: {fileID: 1034873554}
   - component: {fileID: 1034873557}
   m_Layer: 0
   m_Name: pacdot
@@ -22355,17 +21322,6 @@ Transform:
   m_Father: {fileID: 1858550829}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1034873554
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1034873552}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1034873555
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22456,7 +21412,6 @@ GameObject:
   - component: {fileID: 1035861578}
   - component: {fileID: 1035861582}
   - component: {fileID: 1035861581}
-  - component: {fileID: 1035861580}
   - component: {fileID: 1035861579}
   m_Layer: 0
   m_Name: pacdot
@@ -22487,17 +21442,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1035861580
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1035861577}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1035861581
@@ -22579,7 +21523,6 @@ GameObject:
   - component: {fileID: 1036682731}
   - component: {fileID: 1036682734}
   - component: {fileID: 1036682733}
-  - component: {fileID: 1036682732}
   - component: {fileID: 1036682735}
   m_Layer: 0
   m_Name: pacdot
@@ -22601,17 +21544,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1036682732
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1036682730}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1036682733
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22702,7 +21634,6 @@ GameObject:
   - component: {fileID: 1040332505}
   - component: {fileID: 1040332508}
   - component: {fileID: 1040332507}
-  - component: {fileID: 1040332506}
   - component: {fileID: 1040332509}
   m_Layer: 0
   m_Name: pacdot
@@ -22724,17 +21655,6 @@ Transform:
   m_Father: {fileID: 564964284}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1040332506
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1040332504}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1040332507
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22825,7 +21745,6 @@ GameObject:
   - component: {fileID: 1043009640}
   - component: {fileID: 1043009644}
   - component: {fileID: 1043009643}
-  - component: {fileID: 1043009642}
   - component: {fileID: 1043009641}
   m_Layer: 0
   m_Name: pacdot
@@ -22856,17 +21775,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1043009642
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1043009639}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1043009643
@@ -23075,7 +21983,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1048324519}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 14.37, y: 11, z: 0}
+  m_LocalPosition: {x: 0.93000126, y: -2.2199993, z: 0}
   m_LocalScale: {x: 0.89859444, y: 0.8309904, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -23202,7 +22110,6 @@ GameObject:
   - component: {fileID: 1052351287}
   - component: {fileID: 1052351291}
   - component: {fileID: 1052351290}
-  - component: {fileID: 1052351289}
   - component: {fileID: 1052351288}
   m_Layer: 0
   m_Name: pacdot
@@ -23233,17 +22140,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1052351289
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1052351286}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1052351290
@@ -23325,7 +22221,6 @@ GameObject:
   - component: {fileID: 1058942605}
   - component: {fileID: 1058942609}
   - component: {fileID: 1058942608}
-  - component: {fileID: 1058942607}
   - component: {fileID: 1058942606}
   m_Layer: 0
   m_Name: pacdot
@@ -23356,17 +22251,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1058942607
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1058942604}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1058942608
@@ -23448,7 +22332,6 @@ GameObject:
   - component: {fileID: 1075582897}
   - component: {fileID: 1075582901}
   - component: {fileID: 1075582900}
-  - component: {fileID: 1075582899}
   - component: {fileID: 1075582898}
   m_Layer: 0
   m_Name: pacdot
@@ -23479,17 +22362,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1075582899
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1075582896}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1075582900
@@ -23571,7 +22443,6 @@ GameObject:
   - component: {fileID: 1082346235}
   - component: {fileID: 1082346239}
   - component: {fileID: 1082346238}
-  - component: {fileID: 1082346237}
   - component: {fileID: 1082346236}
   m_Layer: 0
   m_Name: pacdot
@@ -23602,17 +22473,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1082346237
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1082346234}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1082346238
@@ -23805,7 +22665,6 @@ GameObject:
   - component: {fileID: 1086314120}
   - component: {fileID: 1086314124}
   - component: {fileID: 1086314123}
-  - component: {fileID: 1086314122}
   - component: {fileID: 1086314121}
   m_Layer: 0
   m_Name: pacdot
@@ -23836,17 +22695,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1086314122
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1086314119}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1086314123
@@ -23928,7 +22776,6 @@ GameObject:
   - component: {fileID: 1088330897}
   - component: {fileID: 1088330901}
   - component: {fileID: 1088330900}
-  - component: {fileID: 1088330899}
   - component: {fileID: 1088330898}
   m_Layer: 0
   m_Name: pacdot
@@ -23959,17 +22806,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1088330899
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1088330896}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1088330900
@@ -24051,7 +22887,6 @@ GameObject:
   - component: {fileID: 1095359367}
   - component: {fileID: 1095359371}
   - component: {fileID: 1095359370}
-  - component: {fileID: 1095359369}
   - component: {fileID: 1095359368}
   m_Layer: 0
   m_Name: pacdot
@@ -24082,17 +22917,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1095359369
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1095359366}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1095359370
@@ -24174,7 +22998,6 @@ GameObject:
   - component: {fileID: 1101623840}
   - component: {fileID: 1101623843}
   - component: {fileID: 1101623842}
-  - component: {fileID: 1101623841}
   - component: {fileID: 1101623844}
   m_Layer: 0
   m_Name: pacdot
@@ -24196,17 +23019,6 @@ Transform:
   m_Father: {fileID: 2007120930}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1101623841
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1101623839}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1101623842
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -24297,7 +23109,6 @@ GameObject:
   - component: {fileID: 1110793432}
   - component: {fileID: 1110793436}
   - component: {fileID: 1110793435}
-  - component: {fileID: 1110793434}
   - component: {fileID: 1110793433}
   m_Layer: 0
   m_Name: pacdot
@@ -24328,17 +23139,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1110793434
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1110793431}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1110793435
@@ -24420,7 +23220,6 @@ GameObject:
   - component: {fileID: 1111997281}
   - component: {fileID: 1111997285}
   - component: {fileID: 1111997284}
-  - component: {fileID: 1111997283}
   - component: {fileID: 1111997282}
   m_Layer: 0
   m_Name: pacdot
@@ -24451,17 +23250,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1111997283
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1111997280}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1111997284
@@ -24654,7 +23442,6 @@ GameObject:
   - component: {fileID: 1116378094}
   - component: {fileID: 1116378098}
   - component: {fileID: 1116378097}
-  - component: {fileID: 1116378096}
   - component: {fileID: 1116378095}
   m_Layer: 0
   m_Name: pacdot
@@ -24685,17 +23472,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1116378096
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1116378093}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1116378097
@@ -24999,7 +23775,6 @@ GameObject:
   - component: {fileID: 1126499844}
   - component: {fileID: 1126499847}
   - component: {fileID: 1126499846}
-  - component: {fileID: 1126499845}
   - component: {fileID: 1126499848}
   m_Layer: 0
   m_Name: pacdot
@@ -25021,17 +23796,6 @@ Transform:
   m_Father: {fileID: 1858550829}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1126499845
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1126499843}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1126499846
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -25319,7 +24083,6 @@ GameObject:
   - component: {fileID: 1168043805}
   - component: {fileID: 1168043809}
   - component: {fileID: 1168043808}
-  - component: {fileID: 1168043807}
   - component: {fileID: 1168043806}
   m_Layer: 0
   m_Name: pacdot
@@ -25350,17 +24113,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1168043807
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1168043804}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1168043808
@@ -25442,7 +24194,6 @@ GameObject:
   - component: {fileID: 1180422020}
   - component: {fileID: 1180422024}
   - component: {fileID: 1180422023}
-  - component: {fileID: 1180422022}
   - component: {fileID: 1180422021}
   m_Layer: 0
   m_Name: pacdot
@@ -25473,17 +24224,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1180422022
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1180422019}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1180422023
@@ -25565,7 +24305,6 @@ GameObject:
   - component: {fileID: 1182970303}
   - component: {fileID: 1182970306}
   - component: {fileID: 1182970305}
-  - component: {fileID: 1182970304}
   - component: {fileID: 1182970307}
   m_Layer: 0
   m_Name: pacdot
@@ -25587,17 +24326,6 @@ Transform:
   m_Father: {fileID: 1858550829}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1182970304
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1182970302}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1182970305
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -25688,7 +24416,6 @@ GameObject:
   - component: {fileID: 1184380261}
   - component: {fileID: 1184380264}
   - component: {fileID: 1184380263}
-  - component: {fileID: 1184380262}
   - component: {fileID: 1184380265}
   m_Layer: 0
   m_Name: pacdot
@@ -25710,17 +24437,6 @@ Transform:
   m_Father: {fileID: 80952236}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1184380262
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1184380260}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1184380263
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -25922,7 +24638,6 @@ GameObject:
   - component: {fileID: 1201759595}
   - component: {fileID: 1201759599}
   - component: {fileID: 1201759598}
-  - component: {fileID: 1201759597}
   - component: {fileID: 1201759596}
   m_Layer: 0
   m_Name: pacdot
@@ -25953,17 +24668,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1201759597
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1201759594}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1201759598
@@ -26301,7 +25005,6 @@ GameObject:
   - component: {fileID: 1214673319}
   - component: {fileID: 1214673322}
   - component: {fileID: 1214673321}
-  - component: {fileID: 1214673320}
   - component: {fileID: 1214673323}
   m_Layer: 0
   m_Name: pacdot
@@ -26323,17 +25026,6 @@ Transform:
   m_Father: {fileID: 1595387873}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1214673320
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1214673318}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1214673321
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -26979,7 +25671,6 @@ GameObject:
   - component: {fileID: 1231004545}
   - component: {fileID: 1231004548}
   - component: {fileID: 1231004547}
-  - component: {fileID: 1231004546}
   - component: {fileID: 1231004549}
   m_Layer: 0
   m_Name: pacdot
@@ -27001,17 +25692,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1231004546
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1231004544}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1231004547
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -27435,7 +26115,6 @@ GameObject:
   - component: {fileID: 1242471354}
   - component: {fileID: 1242471357}
   - component: {fileID: 1242471356}
-  - component: {fileID: 1242471355}
   - component: {fileID: 1242471358}
   m_Layer: 0
   m_Name: pacdot
@@ -27457,17 +26136,6 @@ Transform:
   m_Father: {fileID: 1858550829}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1242471355
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1242471353}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1242471356
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -27780,7 +26448,6 @@ GameObject:
   - component: {fileID: 1251660903}
   - component: {fileID: 1251660906}
   - component: {fileID: 1251660905}
-  - component: {fileID: 1251660904}
   - component: {fileID: 1251660907}
   m_Layer: 0
   m_Name: pacdot
@@ -27802,17 +26469,6 @@ Transform:
   m_Father: {fileID: 873249056}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1251660904
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1251660902}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1251660905
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -27903,7 +26559,6 @@ GameObject:
   - component: {fileID: 1252512309}
   - component: {fileID: 1252512312}
   - component: {fileID: 1252512311}
-  - component: {fileID: 1252512310}
   - component: {fileID: 1252512313}
   m_Layer: 0
   m_Name: pacdot
@@ -27925,17 +26580,6 @@ Transform:
   m_Father: {fileID: 1542566000}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1252512310
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1252512308}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1252512311
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -28248,7 +26892,6 @@ GameObject:
   - component: {fileID: 1287151189}
   - component: {fileID: 1287151192}
   - component: {fileID: 1287151191}
-  - component: {fileID: 1287151190}
   - component: {fileID: 1287151193}
   m_Layer: 0
   m_Name: pacdot
@@ -28270,17 +26913,6 @@ Transform:
   m_Father: {fileID: 2007120930}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1287151190
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1287151188}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1287151191
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -28641,7 +27273,6 @@ GameObject:
   - component: {fileID: 1303574199}
   - component: {fileID: 1303574203}
   - component: {fileID: 1303574202}
-  - component: {fileID: 1303574201}
   - component: {fileID: 1303574200}
   m_Layer: 0
   m_Name: pacdot
@@ -28672,17 +27303,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1303574201
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1303574198}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1303574202
@@ -28986,7 +27606,6 @@ GameObject:
   - component: {fileID: 1319230857}
   - component: {fileID: 1319230860}
   - component: {fileID: 1319230859}
-  - component: {fileID: 1319230858}
   - component: {fileID: 1319230861}
   m_Layer: 0
   m_Name: pacdot
@@ -29008,17 +27627,6 @@ Transform:
   m_Father: {fileID: 873249056}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1319230858
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1319230856}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1319230859
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29331,7 +27939,6 @@ GameObject:
   - component: {fileID: 1328141809}
   - component: {fileID: 1328141812}
   - component: {fileID: 1328141811}
-  - component: {fileID: 1328141810}
   - component: {fileID: 1328141813}
   m_Layer: 0
   m_Name: pacdot
@@ -29353,17 +27960,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1328141810
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1328141808}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1328141811
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29466,7 +28062,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1343872020}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 12.24, y: 15.22, z: 0}
+  m_LocalPosition: {x: -1.1999989, y: 2.000001, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -29482,7 +28078,6 @@ GameObject:
   - component: {fileID: 1355747238}
   - component: {fileID: 1355747242}
   - component: {fileID: 1355747241}
-  - component: {fileID: 1355747240}
   - component: {fileID: 1355747239}
   m_Layer: 0
   m_Name: pacdot
@@ -29513,17 +28108,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1355747240
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1355747237}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1355747241
@@ -29639,7 +28223,6 @@ GameObject:
   - component: {fileID: 1371372935}
   - component: {fileID: 1371372939}
   - component: {fileID: 1371372938}
-  - component: {fileID: 1371372937}
   - component: {fileID: 1371372936}
   m_Layer: 0
   m_Name: pacdot
@@ -29670,17 +28253,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1371372937
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1371372934}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1371372938
@@ -29762,7 +28334,6 @@ GameObject:
   - component: {fileID: 1372066848}
   - component: {fileID: 1372066852}
   - component: {fileID: 1372066851}
-  - component: {fileID: 1372066850}
   - component: {fileID: 1372066849}
   m_Layer: 0
   m_Name: pacdot
@@ -29793,17 +28364,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1372066850
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1372066847}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1372066851
@@ -29885,7 +28445,6 @@ GameObject:
   - component: {fileID: 1378360136}
   - component: {fileID: 1378360139}
   - component: {fileID: 1378360138}
-  - component: {fileID: 1378360137}
   - component: {fileID: 1378360140}
   m_Layer: 0
   m_Name: pacdot
@@ -29907,17 +28466,6 @@ Transform:
   m_Father: {fileID: 1595387873}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1378360137
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1378360135}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1378360138
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30341,7 +28889,6 @@ GameObject:
   - component: {fileID: 1421322779}
   - component: {fileID: 1421322783}
   - component: {fileID: 1421322782}
-  - component: {fileID: 1421322781}
   - component: {fileID: 1421322780}
   m_Layer: 0
   m_Name: pacdot
@@ -30372,17 +28919,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1421322781
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1421322778}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1421322782
@@ -30464,7 +29000,6 @@ GameObject:
   - component: {fileID: 1424587545}
   - component: {fileID: 1424587548}
   - component: {fileID: 1424587547}
-  - component: {fileID: 1424587546}
   - component: {fileID: 1424587549}
   m_Layer: 0
   m_Name: pacdot
@@ -30486,17 +29021,6 @@ Transform:
   m_Father: {fileID: 564964284}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1424587546
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1424587544}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1424587547
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30778,7 +29302,6 @@ GameObject:
   - component: {fileID: 1439506292}
   - component: {fileID: 1439506296}
   - component: {fileID: 1439506295}
-  - component: {fileID: 1439506294}
   - component: {fileID: 1439506293}
   m_Layer: 0
   m_Name: pacdot
@@ -30809,17 +29332,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1439506294
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1439506291}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1439506295
@@ -30901,7 +29413,6 @@ GameObject:
   - component: {fileID: 1445752067}
   - component: {fileID: 1445752071}
   - component: {fileID: 1445752070}
-  - component: {fileID: 1445752069}
   - component: {fileID: 1445752068}
   m_Layer: 0
   m_Name: pacdot
@@ -30932,17 +29443,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1445752069
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1445752066}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1445752070
@@ -31357,7 +29857,6 @@ GameObject:
   - component: {fileID: 1480572134}
   - component: {fileID: 1480572138}
   - component: {fileID: 1480572137}
-  - component: {fileID: 1480572136}
   - component: {fileID: 1480572135}
   m_Layer: 0
   m_Name: pacdot
@@ -31388,17 +29887,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1480572136
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1480572133}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1480572137
@@ -31480,7 +29968,6 @@ GameObject:
   - component: {fileID: 1482990565}
   - component: {fileID: 1482990568}
   - component: {fileID: 1482990567}
-  - component: {fileID: 1482990566}
   - component: {fileID: 1482990569}
   m_Layer: 0
   m_Name: pacdot
@@ -31502,17 +29989,6 @@ Transform:
   m_Father: {fileID: 757753949}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1482990566
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1482990564}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1482990567
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31714,7 +30190,6 @@ GameObject:
   - component: {fileID: 1484140901}
   - component: {fileID: 1484140905}
   - component: {fileID: 1484140904}
-  - component: {fileID: 1484140903}
   - component: {fileID: 1484140902}
   m_Layer: 0
   m_Name: pacdot
@@ -31745,17 +30220,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1484140903
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1484140900}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1484140904
@@ -31837,7 +30301,6 @@ GameObject:
   - component: {fileID: 1487340937}
   - component: {fileID: 1487340941}
   - component: {fileID: 1487340940}
-  - component: {fileID: 1487340939}
   - component: {fileID: 1487340938}
   m_Layer: 0
   m_Name: pacdot
@@ -31868,17 +30331,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1487340939
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1487340936}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1487340940
@@ -31960,7 +30412,6 @@ GameObject:
   - component: {fileID: 1491257212}
   - component: {fileID: 1491257216}
   - component: {fileID: 1491257215}
-  - component: {fileID: 1491257214}
   - component: {fileID: 1491257213}
   m_Layer: 0
   m_Name: pacdot
@@ -31991,17 +30442,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1491257214
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1491257211}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1491257215
@@ -32305,7 +30745,6 @@ GameObject:
   - component: {fileID: 1507063668}
   - component: {fileID: 1507063671}
   - component: {fileID: 1507063670}
-  - component: {fileID: 1507063669}
   - component: {fileID: 1507063672}
   m_Layer: 0
   m_Name: pacdot
@@ -32327,17 +30766,6 @@ Transform:
   m_Father: {fileID: 80952236}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1507063669
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1507063667}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1507063670
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -32539,7 +30967,6 @@ GameObject:
   - component: {fileID: 1510007727}
   - component: {fileID: 1510007731}
   - component: {fileID: 1510007730}
-  - component: {fileID: 1510007729}
   - component: {fileID: 1510007728}
   m_Layer: 0
   m_Name: pacdot
@@ -32570,17 +30997,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1510007729
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1510007726}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1510007730
@@ -32662,7 +31078,6 @@ GameObject:
   - component: {fileID: 1516548902}
   - component: {fileID: 1516548905}
   - component: {fileID: 1516548904}
-  - component: {fileID: 1516548903}
   - component: {fileID: 1516548906}
   m_Layer: 0
   m_Name: pacdot
@@ -32684,17 +31099,6 @@ Transform:
   m_Father: {fileID: 757753949}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1516548903
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1516548901}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1516548904
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -32785,7 +31189,6 @@ GameObject:
   - component: {fileID: 1523294887}
   - component: {fileID: 1523294891}
   - component: {fileID: 1523294890}
-  - component: {fileID: 1523294889}
   - component: {fileID: 1523294888}
   m_Layer: 0
   m_Name: pacdot
@@ -32816,17 +31219,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1523294889
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1523294886}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1523294890
@@ -32908,7 +31300,6 @@ GameObject:
   - component: {fileID: 1526914859}
   - component: {fileID: 1526914862}
   - component: {fileID: 1526914861}
-  - component: {fileID: 1526914860}
   - component: {fileID: 1526914863}
   m_Layer: 0
   m_Name: pacdot
@@ -32930,17 +31321,6 @@ Transform:
   m_Father: {fileID: 1725820922}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1526914860
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1526914858}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1526914861
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33176,7 +31556,6 @@ GameObject:
   - component: {fileID: 1543624253}
   - component: {fileID: 1543624256}
   - component: {fileID: 1543624255}
-  - component: {fileID: 1543624254}
   - component: {fileID: 1543624257}
   m_Layer: 0
   m_Name: pacdot
@@ -33198,17 +31577,6 @@ Transform:
   m_Father: {fileID: 564964284}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1543624254
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1543624252}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1543624255
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33410,7 +31778,6 @@ GameObject:
   - component: {fileID: 1558541883}
   - component: {fileID: 1558541886}
   - component: {fileID: 1558541885}
-  - component: {fileID: 1558541884}
   - component: {fileID: 1558541887}
   m_Layer: 0
   m_Name: pacdot
@@ -33432,17 +31799,6 @@ Transform:
   m_Father: {fileID: 1725820922}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1558541884
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1558541882}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1558541885
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33656,7 +32012,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1562542608}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 17.43, y: 21.08, z: 0}
+  m_LocalPosition: {x: 3.9900017, y: 7.8600006, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -33783,7 +32139,6 @@ GameObject:
   - component: {fileID: 1575547277}
   - component: {fileID: 1575547280}
   - component: {fileID: 1575547279}
-  - component: {fileID: 1575547278}
   - component: {fileID: 1575547281}
   m_Layer: 0
   m_Name: pacdot
@@ -33805,17 +32160,6 @@ Transform:
   m_Father: {fileID: 564964284}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1575547278
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1575547276}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1575547279
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33906,7 +32250,6 @@ GameObject:
   - component: {fileID: 1577473699}
   - component: {fileID: 1577473703}
   - component: {fileID: 1577473702}
-  - component: {fileID: 1577473701}
   - component: {fileID: 1577473700}
   m_Layer: 0
   m_Name: pacdot
@@ -33937,17 +32280,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1577473701
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1577473698}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1577473702
@@ -34618,7 +32950,6 @@ GameObject:
   - component: {fileID: 1605441045}
   - component: {fileID: 1605441048}
   - component: {fileID: 1605441047}
-  - component: {fileID: 1605441046}
   - component: {fileID: 1605441049}
   m_Layer: 0
   m_Name: pacdot
@@ -34640,17 +32971,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1605441046
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1605441044}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1605441047
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -34864,7 +33184,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1607151875}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 17.43, y: 15.22, z: 0}
+  m_LocalPosition: {x: 3.9900017, y: 2.000001, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -34991,7 +33311,6 @@ GameObject:
   - component: {fileID: 1623198983}
   - component: {fileID: 1623198987}
   - component: {fileID: 1623198986}
-  - component: {fileID: 1623198985}
   - component: {fileID: 1623198984}
   m_Layer: 0
   m_Name: pacdot
@@ -35022,17 +33341,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1623198985
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1623198982}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1623198986
@@ -35493,7 +33801,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1639518797}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 12.07, y: 21.12, z: 0}
+  m_LocalPosition: {x: -1.3699989, y: 7.9000015, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -35509,7 +33817,6 @@ GameObject:
   - component: {fileID: 1647254629}
   - component: {fileID: 1647254632}
   - component: {fileID: 1647254631}
-  - component: {fileID: 1647254630}
   - component: {fileID: 1647254633}
   m_Layer: 0
   m_Name: pacdot
@@ -35531,17 +33838,6 @@ Transform:
   m_Father: {fileID: 1542566000}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1647254630
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1647254628}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1647254631
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -35632,7 +33928,6 @@ GameObject:
   - component: {fileID: 1658786229}
   - component: {fileID: 1658786233}
   - component: {fileID: 1658786232}
-  - component: {fileID: 1658786231}
   - component: {fileID: 1658786230}
   m_Layer: 0
   m_Name: pacdot
@@ -35663,17 +33958,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1658786231
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1658786228}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1658786232
@@ -35866,7 +34150,6 @@ GameObject:
   - component: {fileID: 1685750610}
   - component: {fileID: 1685750614}
   - component: {fileID: 1685750613}
-  - component: {fileID: 1685750612}
   - component: {fileID: 1685750611}
   m_Layer: 0
   m_Name: pacdot
@@ -35897,17 +34180,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1685750612
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1685750609}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1685750613
@@ -36100,7 +34372,6 @@ GameObject:
   - component: {fileID: 1694011093}
   - component: {fileID: 1694011097}
   - component: {fileID: 1694011096}
-  - component: {fileID: 1694011095}
   - component: {fileID: 1694011094}
   m_Layer: 0
   m_Name: pacdot
@@ -36131,17 +34402,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1694011095
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1694011092}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1694011096
@@ -36223,7 +34483,6 @@ GameObject:
   - component: {fileID: 1694989351}
   - component: {fileID: 1694989355}
   - component: {fileID: 1694989354}
-  - component: {fileID: 1694989353}
   - component: {fileID: 1694989352}
   m_Layer: 0
   m_Name: pacdot
@@ -36254,17 +34513,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1694989353
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1694989350}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1694989354
@@ -36346,7 +34594,6 @@ GameObject:
   - component: {fileID: 1699658737}
   - component: {fileID: 1699658741}
   - component: {fileID: 1699658740}
-  - component: {fileID: 1699658739}
   - component: {fileID: 1699658738}
   m_Layer: 0
   m_Name: pacdot
@@ -36377,17 +34624,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1699658739
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1699658736}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1699658740
@@ -36469,7 +34705,6 @@ GameObject:
   - component: {fileID: 1720111046}
   - component: {fileID: 1720111049}
   - component: {fileID: 1720111048}
-  - component: {fileID: 1720111047}
   - component: {fileID: 1720111050}
   m_Layer: 0
   m_Name: pacdot
@@ -36491,17 +34726,6 @@ Transform:
   m_Father: {fileID: 1725820922}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1720111047
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1720111045}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1720111048
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -36638,7 +34862,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1736205448}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.51, y: 21.12, z: 0}
+  m_LocalPosition: {x: -5.9299984, y: 7.9000015, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -36654,7 +34878,6 @@ GameObject:
   - component: {fileID: 1749815539}
   - component: {fileID: 1749815543}
   - component: {fileID: 1749815542}
-  - component: {fileID: 1749815541}
   - component: {fileID: 1749815540}
   m_Layer: 0
   m_Name: pacdot
@@ -36685,17 +34908,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1749815541
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1749815538}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1749815542
@@ -37221,7 +35433,6 @@ GameObject:
   - component: {fileID: 1780365722}
   - component: {fileID: 1780365726}
   - component: {fileID: 1780365725}
-  - component: {fileID: 1780365724}
   - component: {fileID: 1780365723}
   m_Layer: 0
   m_Name: pacdot
@@ -37252,17 +35463,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1780365724
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1780365721}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1780365725
@@ -37428,7 +35628,6 @@ GameObject:
   - component: {fileID: 1791726658}
   - component: {fileID: 1791726662}
   - component: {fileID: 1791726661}
-  - component: {fileID: 1791726660}
   - component: {fileID: 1791726659}
   m_Layer: 0
   m_Name: pacdot
@@ -37459,17 +35658,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1791726660
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1791726657}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1791726661
@@ -37551,7 +35739,6 @@ GameObject:
   - component: {fileID: 1794305795}
   - component: {fileID: 1794305799}
   - component: {fileID: 1794305798}
-  - component: {fileID: 1794305797}
   - component: {fileID: 1794305796}
   m_Layer: 0
   m_Name: pacdot
@@ -37582,17 +35769,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1794305797
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1794305794}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1794305798
@@ -37785,7 +35961,6 @@ GameObject:
   - component: {fileID: 1816069426}
   - component: {fileID: 1816069430}
   - component: {fileID: 1816069429}
-  - component: {fileID: 1816069428}
   - component: {fileID: 1816069427}
   m_Layer: 0
   m_Name: pacdot
@@ -37816,17 +35991,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1816069428
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1816069425}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1816069429
@@ -37908,7 +36072,6 @@ GameObject:
   - component: {fileID: 1821937766}
   - component: {fileID: 1821937769}
   - component: {fileID: 1821937768}
-  - component: {fileID: 1821937767}
   - component: {fileID: 1821937770}
   m_Layer: 0
   m_Name: pacdot
@@ -37930,17 +36093,6 @@ Transform:
   m_Father: {fileID: 1542566000}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1821937767
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1821937765}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1821937768
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -38142,7 +36294,6 @@ GameObject:
   - component: {fileID: 1836245333}
   - component: {fileID: 1836245337}
   - component: {fileID: 1836245336}
-  - component: {fileID: 1836245335}
   - component: {fileID: 1836245334}
   m_Layer: 0
   m_Name: pacdot
@@ -38173,17 +36324,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1836245335
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1836245332}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1836245336
@@ -38529,7 +36669,6 @@ GameObject:
   - component: {fileID: 1889744951}
   - component: {fileID: 1889744954}
   - component: {fileID: 1889744953}
-  - component: {fileID: 1889744952}
   - component: {fileID: 1889744955}
   m_Layer: 0
   m_Name: pacdot
@@ -38551,17 +36690,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1889744952
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1889744950}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1889744953
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -38874,7 +37002,6 @@ GameObject:
   - component: {fileID: 1919787382}
   - component: {fileID: 1919787386}
   - component: {fileID: 1919787385}
-  - component: {fileID: 1919787384}
   - component: {fileID: 1919787383}
   m_Layer: 0
   m_Name: pacdot
@@ -38905,17 +37032,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1919787384
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1919787381}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1919787385
@@ -38997,7 +37113,6 @@ GameObject:
   - component: {fileID: 1933992998}
   - component: {fileID: 1933993002}
   - component: {fileID: 1933993001}
-  - component: {fileID: 1933993000}
   - component: {fileID: 1933992999}
   m_Layer: 0
   m_Name: pacdot
@@ -39028,17 +37143,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1933993000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1933992997}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1933993001
@@ -39231,7 +37335,6 @@ GameObject:
   - component: {fileID: 1934502277}
   - component: {fileID: 1934502280}
   - component: {fileID: 1934502279}
-  - component: {fileID: 1934502278}
   - component: {fileID: 1934502281}
   m_Layer: 0
   m_Name: pacdot
@@ -39253,17 +37356,6 @@ Transform:
   m_Father: {fileID: 757753949}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1934502278
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1934502276}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1934502279
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -39465,7 +37557,6 @@ GameObject:
   - component: {fileID: 1938248737}
   - component: {fileID: 1938248740}
   - component: {fileID: 1938248739}
-  - component: {fileID: 1938248738}
   - component: {fileID: 1938248741}
   m_Layer: 0
   m_Name: pacdot
@@ -39487,17 +37578,6 @@ Transform:
   m_Father: {fileID: 80952236}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1938248738
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1938248736}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1938248739
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -39588,7 +37668,6 @@ GameObject:
   - component: {fileID: 1945086665}
   - component: {fileID: 1945086669}
   - component: {fileID: 1945086668}
-  - component: {fileID: 1945086667}
   - component: {fileID: 1945086666}
   m_Layer: 0
   m_Name: pacdot
@@ -39619,17 +37698,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1945086667
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1945086664}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1945086668
@@ -39712,7 +37780,7 @@ GameObject:
   - component: {fileID: 1948444076}
   - component: {fileID: 1948444075}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Score
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39726,14 +37794,14 @@ RectTransform:
   m_GameObject: {fileID: 1948444073}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.4224775, y: 1.6040897, z: 1.2106446}
   m_Children: []
   m_Father: {fileID: 152713169}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 27.524048, y: 127}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1948444075
@@ -39748,7 +37816,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 0.5517957, g: 0.5588235, b: 0.049307972, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -39757,10 +37825,10 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 16
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -39898,7 +37966,6 @@ GameObject:
   - component: {fileID: 1981124449}
   - component: {fileID: 1981124452}
   - component: {fileID: 1981124451}
-  - component: {fileID: 1981124450}
   - component: {fileID: 1981124453}
   m_Layer: 0
   m_Name: pacdot
@@ -39920,17 +37987,6 @@ Transform:
   m_Father: {fileID: 80952236}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1981124450
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1981124448}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1981124451
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -40021,7 +38077,6 @@ GameObject:
   - component: {fileID: 1994628977}
   - component: {fileID: 1994628981}
   - component: {fileID: 1994628980}
-  - component: {fileID: 1994628979}
   - component: {fileID: 1994628978}
   m_Layer: 0
   m_Name: pacdot
@@ -40052,17 +38107,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1994628979
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1994628976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1994628980
@@ -40255,7 +38299,6 @@ GameObject:
   - component: {fileID: 2000498550}
   - component: {fileID: 2000498554}
   - component: {fileID: 2000498553}
-  - component: {fileID: 2000498552}
   - component: {fileID: 2000498551}
   m_Layer: 0
   m_Name: pacdot
@@ -40286,17 +38329,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &2000498552
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2000498549}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &2000498553
@@ -40668,7 +38700,6 @@ GameObject:
   - component: {fileID: 2032403617}
   - component: {fileID: 2032403620}
   - component: {fileID: 2032403619}
-  - component: {fileID: 2032403618}
   - component: {fileID: 2032403621}
   m_Layer: 0
   m_Name: pacdot
@@ -40690,17 +38721,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2032403618
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2032403616}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2032403619
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -40791,7 +38811,6 @@ GameObject:
   - component: {fileID: 2035394080}
   - component: {fileID: 2035394083}
   - component: {fileID: 2035394082}
-  - component: {fileID: 2035394081}
   - component: {fileID: 2035394084}
   m_Layer: 0
   m_Name: pacdot
@@ -40813,17 +38832,6 @@ Transform:
   m_Father: {fileID: 1432069999}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2035394081
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2035394079}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2035394082
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -40914,7 +38922,6 @@ GameObject:
   - component: {fileID: 2035457720}
   - component: {fileID: 2035457724}
   - component: {fileID: 2035457723}
-  - component: {fileID: 2035457722}
   - component: {fileID: 2035457721}
   m_Layer: 0
   m_Name: pacdot
@@ -40945,17 +38952,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &2035457722
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2035457719}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &2035457723
@@ -41259,7 +39255,6 @@ GameObject:
   - component: {fileID: 2054420118}
   - component: {fileID: 2054420122}
   - component: {fileID: 2054420121}
-  - component: {fileID: 2054420120}
   - component: {fileID: 2054420119}
   m_Layer: 0
   m_Name: pacdot
@@ -41290,17 +39285,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &2054420120
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2054420117}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &2054420121
@@ -41382,7 +39366,6 @@ GameObject:
   - component: {fileID: 2072322088}
   - component: {fileID: 2072322092}
   - component: {fileID: 2072322091}
-  - component: {fileID: 2072322090}
   - component: {fileID: 2072322089}
   m_Layer: 0
   m_Name: pacdot
@@ -41413,17 +39396,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &2072322090
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2072322087}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &2072322091
@@ -41505,7 +39477,6 @@ GameObject:
   - component: {fileID: 2076926383}
   - component: {fileID: 2076926387}
   - component: {fileID: 2076926386}
-  - component: {fileID: 2076926385}
   - component: {fileID: 2076926384}
   m_Layer: 0
   m_Name: pacdot
@@ -41536,17 +39507,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &2076926385
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2076926382}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &2076926386
@@ -41628,7 +39588,6 @@ GameObject:
   - component: {fileID: 2083354988}
   - component: {fileID: 2083354991}
   - component: {fileID: 2083354990}
-  - component: {fileID: 2083354989}
   - component: {fileID: 2083354992}
   m_Layer: 0
   m_Name: pacdot
@@ -41650,17 +39609,6 @@ Transform:
   m_Father: {fileID: 1595387873}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2083354989
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2083354987}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2083354990
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -42370,7 +40318,6 @@ GameObject:
   - component: {fileID: 2117901638}
   - component: {fileID: 2117901642}
   - component: {fileID: 2117901641}
-  - component: {fileID: 2117901640}
   - component: {fileID: 2117901639}
   m_Layer: 0
   m_Name: pacdot
@@ -42401,17 +40348,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &2117901640
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2117901637}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &2117901641
@@ -42604,7 +40540,6 @@ GameObject:
   - component: {fileID: 2130891238}
   - component: {fileID: 2130891242}
   - component: {fileID: 2130891241}
-  - component: {fileID: 2130891240}
   - component: {fileID: 2130891239}
   m_Layer: 0
   m_Name: pacdot
@@ -42635,17 +40570,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ce0961395bd67d4182e8a989ada856f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &2130891240
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2130891237}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &2130891241

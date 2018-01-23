@@ -51,8 +51,12 @@ public class login : MonoBehaviour
 
     public void loginButton()
     {
-        
-        string filePath = @"C:\Users\shubham\Documents\UnityProjects\pacman2d\Assets\Pacman-Game\Resources\users.xml";
+        //Debug.Log(Application.dataPath);
+        //string filePath1 = Application.dataPath + @"/Pacman-Game/Resources/db/users.xml";
+        //Debug.Log(filePath1);
+
+        string filePath = @"C:\Users\shubham\Documents\UnityProjects\pacman2d\Assets\Pacman-Game\Resources\db\users.xml";
+        //string filePath = Application.dataPath + @"/Pacman-Game/Resources/db/users.xml";
         XmlDocument xmlDoc = new XmlDocument();
         if (File.Exists(filePath))
         {
@@ -71,7 +75,7 @@ public class login : MonoBehaviour
 
                         username.GetComponent<InputField>().text = "";
                         password.GetComponent<InputField>().text = "";
-                        print("HI");
+                        
                         SceneManager.LoadScene("gamemv");
                         print("Login Successful");
 
@@ -157,7 +161,7 @@ public class login : MonoBehaviour
     //           this.logindataun = username.GetComponent<InputField>().text;
     //           username.GetComponent<InputField> ().text = "";
     //		password.GetComponent<InputField> ().text = "";
-    //           print("HI");
+    //           
     //           SceneManager.LoadScene("startmenu");
     //          print ("Login Successful");
     //       }

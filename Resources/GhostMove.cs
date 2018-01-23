@@ -48,7 +48,8 @@ public class GhostMove : MonoBehaviour
 
     public static void WriteScore(int score)
     {
-        string filePath = @"C:\Users\shubham\Documents\UnityProjects\pacman2d\Assets\Pacman-Game\Resources\users.xml";
+        string filePath = @"C:\Users\shubham\Documents\UnityProjects\pacman2d\Assets\Pacman-Game\Resources\db\users.xml";
+        //string filePath = Application.dataPath + @"/Pacman-Game/Resources/db/users.xml";
 
         XmlDocument xmlDoc = new XmlDocument();
         if (File.Exists(filePath))
