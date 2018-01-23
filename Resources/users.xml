@@ -1,0 +1,27 @@
+<users>
+  <details>
+    <username>shoe</username>
+    <password>1234</password>
+    <score>760</score>
+  </details>
+  <details>
+    <username>a</username>
+    <password>1234</password>
+    <score>2</score>
+  </details>
+  <details>
+    <username>b</username>
+    <password>1234</password>
+    <score>0</score>
+  </details>
+  <details>
+    <username>d</username>
+    <password>1234</password>
+    <score>0</score>
+  </details>
+  <details>
+    <username>e</username>
+    <password>1234</password>
+    <score>0</score>
+  </details>
+</users>
